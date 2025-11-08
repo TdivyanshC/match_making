@@ -1,0 +1,190 @@
+[
+  {
+    "property_id": "P001",
+    "title": "3BHK Apartment in Ulsoor",
+    "raw": "Beautiful 3BHK apartment in Ulsoor, 2400 sqft, semi-furnished, 2.2 lakhs rent",
+    "type": "rent",
+    "bhk": 3,
+    "bathrooms": 2,
+    "balconies": 1,
+    "area_sft": 2400,
+    "floor_number": 5,
+    "total_floors": 12,
+    "furnishing": "semi",
+    "parking": 1,
+    "facing": "east",
+    "amenities": [
+      "gym",
+      "pool",
+      "garden"
+    ],
+    "location": {
+      "locality": "Ulsoor",
+      "city": "Bangalore",
+      "landmark": "Ulsoor Lake"
+    },
+    "rent_rupees": 220000,
+    "maintenance_monthly": 15000,
+    "negotiable": true,
+    "available_from": "2024-01-15",
+    "contact": {
+      "agent_name": "Rajesh Kumar",
+      "phone": "9876543210",
+      "source": "WhatsApp"
+    }
+  },
+  {
+    "property_id": "P002",
+    "title": "2BHK in Noida Sector 76",
+    "raw": "2BHK apartment near metro, 1200 sqft, furnished, 65,000 rent",
+    "type": "rent",
+    "bhk": 2,
+    "bathrooms": 2,
+    "area_sft": 1200,
+    "floor_number": 3,
+    "total_floors": 15,
+    "furnishing": "full",
+    "parking": 1,
+    "amenities": [
+      "lift",
+      "security"
+    ],
+    "location": {
+      "locality": "Noida Sector 76",
+      "city": "Noida",
+      "landmark": "Metro Station"
+    },
+    "rent_rupees": 65000,
+    "maintenance_monthly": 5000,
+    "negotiable": false,
+    "contact": {
+      "agent_name": "Priya Singh",
+      "phone": "8765432109",
+      "source": "Broker"
+    }
+  },
+  {
+    "property_id": "P003",
+    "title": "4BHK Penthouse with Pool",
+    "raw": "Luxury 4BHK penthouse, 4000 sqft, pool and gym, 3.5 lakhs rent",
+    "type": "rent",
+    "bhk": 4,
+    "bathrooms": 4,
+    "area_sft": 4000,
+    "floor_number": 20,
+    "total_floors": 20,
+    "furnishing": "full",
+    "parking": 2,
+    "amenities": [
+      "pool",
+      "gym",
+      "terrace",
+      "clubhouse"
+    ],
+    "location": {
+      "locality": "MG Road",
+      "city": "Bangalore",
+      "landmark": "Near Brigade Road"
+    },
+    "rent_rupees": 350000,
+    "maintenance_monthly": 25000,
+    "negotiable": true,
+    "available_from": "2024-02-01",
+    "contact": {
+      "agent_name": "Amit Patel",
+      "phone": "7654321098",
+      "source": "Website"
+    }
+  },
+  {
+    "property_id": "P004",
+    "title": "3BHK Ground Floor with Garden",
+    "raw": "3BHK ground floor apartment with garden, 1800 sqft, semi-furnished, 1.2 lakhs rent",
+    "type": "rent",
+    "bhk": 3,
+    "bathrooms": 2,
+    "area_sft": 1800,
+    "floor_number": 0,
+    "total_floors": 4,
+    "furnishing": "semi",
+    "parking": 1,
+    "amenities": [
+      "garden",
+      "parking"
+    ],
+    "location": {
+      "locality": "Rest House Road",
+      "city": "Bangalore",
+      "landmark": "Near Lavelle Road"
+    },
+    "rent_rupees": 120000,
+    "maintenance_monthly": 8000,
+    "negotiable": true,
+    "contact": {
+      "agent_name": "Sneha Gupta",
+      "phone": "6543210987",
+      "source": "Direct"
+    }
+  },
+  {
+    "property_id": "P005",
+    "title": "3BHK for Company Lease",
+    "raw": "3BHK apartment for company lease, 2000 sqft, furnished, 1.8 lakhs rent",
+    "type": "rent",
+    "bhk": 3,
+    "bathrooms": 2,
+    "area_sft": 2000,
+    "floor_number": 8,
+    "total_floors": 15,
+    "furnishing": "full",
+    "parking": 1,
+    "amenities": [
+      "lift",
+      "security",
+      "gym"
+    ],
+    "location": {
+      "locality": "Lavelle Road",
+      "city": "Bangalore",
+      "landmark": "Near MG Road"
+    },
+    "rent_rupees": 180000,
+    "maintenance_monthly": 12000,
+    "negotiable": false,
+    "available_from": "2024-10-10",
+    "contact": {
+      "agent_name": "Vikram Rao",
+      "phone": "5432109876",
+      "source": "Company"
+    }
+  },
+  {
+    "property_id": "P006",
+    "title": "3BHK Budget Option",
+    "raw": "3BHK apartment, 1200 sqft, semi-furnished, 55,000 rent",
+    "type": "rent",
+    "bhk": 3,
+    "bathrooms": 2,
+    "area_sft": 1200,
+    "floor_number": 2,
+    "total_floors": 8,
+    "furnishing": "semi",
+    "parking": 1,
+    "amenities": [
+      "parking"
+    ],
+    "location": {
+      "locality": "Swiss Town",
+      "city": "Bangalore",
+      "landmark": "Near Ring Road"
+    },
+    "rent_rupees": 55000,
+    "maintenance_monthly": 3000,
+    "negotiable": true,
+    "contact": {
+      "agent_name": "Kiran Desai",
+      "phone": "4321098765",
+      "source": "Local"
+    }
+  }
+]
